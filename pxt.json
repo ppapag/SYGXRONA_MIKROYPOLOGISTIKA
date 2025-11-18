@@ -1,5 +1,5 @@
 {
-    "name": "HELLO WORLD_VERY_FAST",
+    "name": "BACKGROUND_LED_TEMP",
     "description": "",
     "dependencies": {
         "core": "*",
